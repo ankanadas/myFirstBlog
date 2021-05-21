@@ -1,3 +1,3 @@
-const name = ['Ninja'];
+const name = 'Ninja';
 
-console.table(name);
+console.log(name);
